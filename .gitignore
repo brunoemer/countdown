@@ -6,7 +6,7 @@ yarn-error.log*
 package-lock.json
 
 # TypeScript compiled output
-dist/
+# dist/ - Included for GitHub Pages deployment
 *.js.map
 
 # Environment variables
